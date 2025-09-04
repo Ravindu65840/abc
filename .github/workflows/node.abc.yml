@@ -1,6 +1,6 @@
 
 
-name: Node.abc CI
+name: abc CI
 
 on:
   push:
