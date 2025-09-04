@@ -1,6 +1,6 @@
 
 
-name: node.asd CI
+name: node.qwe CI
 
 on:
   push:
