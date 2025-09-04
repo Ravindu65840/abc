@@ -1,6 +1,6 @@
 
 
-name: abc CI
+name: node.asd CI
 
 on:
   push:
