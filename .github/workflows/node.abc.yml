@@ -1,6 +1,6 @@
 
 
-name: node.eri CI
+name: node.rav CI
 
 on:
   push:
