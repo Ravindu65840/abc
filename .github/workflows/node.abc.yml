@@ -1,6 +1,6 @@
 
 
-name: node.poi CI
+name: node.eri CI
 
 on:
   push:
