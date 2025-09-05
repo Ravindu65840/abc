@@ -1,6 +1,6 @@
 
 
-name: node.qwe CI
+name: node.poi CI
 
 on:
   push:
