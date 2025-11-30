@@ -1,6 +1,6 @@
 
 
-name: Node.abc CI
+name: Node.js CI
 
 on:
   push:
