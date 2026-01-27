@@ -1,5 +1,5 @@
 
-name: Node.abc CI/CD Workflow
+name: Node.js CI/CD Workflow
 
 on:
   push:
