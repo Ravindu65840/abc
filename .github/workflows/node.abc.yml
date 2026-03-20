@@ -1,4 +1,4 @@
-name: Node.jd CI/CD Workflow
+name: Node.js CI/CD Workflow
 
 on:
   push:
